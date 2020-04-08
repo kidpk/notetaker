@@ -25,4 +25,16 @@ app.post('/api/notes', function(req, res) {
 
 });
 
+app.delete('/api/notes/:id', function(req, res) {
+    db.deleteNote(req.params.id)
+    .then(()=> res.json({ok:true}))
+    .catch(error=>{
+        console.log(error)
+        res.status(500).json(error)
+    })
+
+
+
+
+})
 };
