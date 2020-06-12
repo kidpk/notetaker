@@ -6,7 +6,7 @@ An application that can be used to write, save, and delete notes. This applicati
 
 
 
-## App Use
+## Functionality
 
 AS A user, I want to be able to write and save notes
 
