@@ -1,7 +1,7 @@
 An application that can be used to write, save, and delete notes. This application will use an express backend and save and retrieve note data from a JSON file.
 
 
-## User Story
+## App Use
 
 AS A user, I want to be able to write and save notes
 
