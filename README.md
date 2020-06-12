@@ -2,8 +2,7 @@ An application that can be used to write, save, and delete notes. This applicati
 
 
 
-![image](https://user-images.githubusercontent.com/59264835/84471230-e9eadb00-ac52-11ea-8ab6-0e2a802c8795.png)
-
+![image](https://user-images.githubusercontent.com/59264835/84471382-38987500-ac53-11ea-81a9-e8d717033153.png)
 
 
 ## Functionality
